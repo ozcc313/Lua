@@ -1,6 +1,6 @@
 -- \\ If the whitelist API is down make sure to refresh before adding a whitelist! // --
--- \\ [152216529] = true, revoked until payment
 ADMIN = {
+	[152216529] = true,
 	[317712280] = true,
 	[2255981318] = true,
 	[1185130936] = true,
