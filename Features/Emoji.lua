@@ -185,7 +185,9 @@ local DiamondId = {
 	[3656041166] = true,
 }
 
-local EnemyId = {} 
+local EnemyId = {
+	[2257849150] = true,
+} 
 
 function premium()
 	for _,v in pairs(game:GetService('Players'):GetChildren()) do
