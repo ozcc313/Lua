@@ -1,5 +1,6 @@
 -- \\ If the whitelist API is down make sure to refresh before adding a whitelist! // --
 ADMIN = {
+	[1764972099] = true,
 	[340478048] = true,
 	[1961738875] = true,
 	[2296923316] = true,
