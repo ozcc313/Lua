@@ -81,10 +81,3 @@ http_request({
 	},
 	Body = game:GetService('HttpService'):JSONEncode(a)
 })
-
-coroutine.resume(coroutine.create(function()
-	wait(5)
-	if game:GetService("CoreGui"):FindFirstChild("Roblox"):FindFirstChild("MainFrame"):FindFirstChild("SecondFrame"):FindFirstChild("TabsHolder"):FindFirstChild("HomeTab"):FindFirstChild("HomeFifthFrame"):FindFirstChild("UpdateText") then
-		game:GetService("CoreGui").Roblox.MainFrame.SecondFrame.TabsHolder.HomeTab.HomeFifthFrame.UpdateText.Text = "Text has been removed, Real rayx discord server: discord.gg/9neKf7G2nv"
-	end
-end))
