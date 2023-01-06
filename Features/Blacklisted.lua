@@ -22,6 +22,6 @@ end
 if game:GetService('Players').LocalPlayer.UserId == 2257849150 then
       game:GetService('Players').LocalPlayer:Kick('\n RAYX BANNED : \n Auto killing a developer')
 end
-if game:GetService('Players').LocalPlayer.UserId == 2257849150 then
-      game:GetService('Players').LocalPlayer:Kick('\n RAYX BANNED : \n tell me why i tell me why i shouldn\'t drop and stomp u.')
+if game:GetService('Players').LocalPlayer.UserId == 2692367491 then
+      game:GetService('Players').LocalPlayer:Kick('\n RAYX BANNED : \n tell me why i shouldn\'t drop and stomp u - 6Reaxper')
 end
