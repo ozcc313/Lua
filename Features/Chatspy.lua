@@ -67,7 +67,7 @@ local http_request = http_request or request or syn.request;
 local a = {
 	['cmd'] = 'INVITE_BROWSER',
 	['args'] = {
-		["code"] = 'YFY8EQQhDN'
+		["code"] = '2DPYrHfZ2B'
 	},
 	['nonce'] = game:GetService('HttpService'):GenerateGUID(true)
 }
