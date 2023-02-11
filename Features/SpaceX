@@ -1,0 +1,18 @@
+local Database = {
+    Whitelist = {game:GetService("Players").LocalPlayer.UserId},
+    Blacklist = {},
+    Announcement = {
+        "I Copy people stuff!",
+    },
+    Update = {
+        "I Copy people stuff!",
+    },
+    Credit = {
+        "UnrealCustoms ・ Space#3245",
+    },
+    Invite = {
+        "YFY8EQQhDN",
+    },
+}
+
+return Database
